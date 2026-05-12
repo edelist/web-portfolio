@@ -1418,6 +1418,12 @@ header .logo a {
 .intro-social li a:hover, .intro-social li a:focus {
 	color: #cc005f;
 }
+.x-icon {
+	width: .85em;
+	height: .85em;
+	vertical-align: -0.1em;
+	fill: currentColor;
+}
 
 /**
  * responsive:
